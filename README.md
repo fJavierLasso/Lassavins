@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fJavierLasso
-- 👀 I’m interested in web and app development
+- 👀 I’m currently in the last year for my Advanced Technician degree in Web development.
 - 📫 How to reach me: fjavierlasso@icloud.com
 <!---
 fJavierLasso/fJavierLasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
