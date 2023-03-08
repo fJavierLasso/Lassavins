@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fJavierLasso
-- 👀 I’m currently in my last year for the Advanced Technician degree in Web development.
-- 👨🏻‍💻 I love programming and I'm always looking for new ways of learning dev skills!
+- 👀 I'm a Higher Technician in Web Application Development, looking forward to become a Software Engineer!
+- 👨🏻‍💻 I love building amazing apps and I'm always looking to learn new skills
+- 🌱 I'm currently working on my FYP for my Higher Technician Certificate while interning at Digital55
 - 📫 How to reach me: fjavierlasso@icloud.com
 <!---
 fJavierLasso/fJavierLasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
